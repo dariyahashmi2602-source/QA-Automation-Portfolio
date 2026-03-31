@@ -6,14 +6,14 @@ QA Automation Testing – The Internet Demo Website
 
 # Tools Used:
 
-Selenium (Python)
-JMeter
-Manual Testing
-GitHub
+1. Selenium (Python)
+2. JMeter
+3. Manual Testing
+4. GitHub
 
 # Test Coverage:
 
-Login functionality
-Logout functionality
-Invalid login validation
-Security headers testing
+1. Login functionality
+2. Logout functionality
+3. Invalid login validation
+4. Security headers testing
